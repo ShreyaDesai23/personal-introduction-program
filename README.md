@@ -104,15 +104,20 @@ Nice to meet you! 😊
 
 ---
 
-## 🚀 Future Enhancements
+🧠 Key Learnings
 
-* Add more inputs (favorite food, dream job)
-* Input validation (ensure age is numeric)
-* Improve UI formatting
+* Handling user input
 
+* Using variables effectively
+
+* Writing clean and readable code
+
+* Formatting output with f-strings
+
+* Structuring a basic Python project
 
 ## 👩‍💻 Author
 
 **Shreya Desai**
-GitHub: [https://github.com/ShreyaDesai23](https://github.com/ShreyaDesai23)
+
 
